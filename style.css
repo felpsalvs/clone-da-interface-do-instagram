@@ -52,7 +52,7 @@ body {
     flex-direction: column;
     background-color: #fff;
     width: 100%;
-    padding: 1px solid lightgrey;
+    border: 1px solid lightgrey;
 }
 
 .group:nth-child(1) {
