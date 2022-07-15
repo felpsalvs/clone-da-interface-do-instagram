@@ -72,6 +72,10 @@ body {
   overflow: hidden;
 }
 
+.profile-photo img {
+    height: 6rem;
+    width: 6rem;
+}
 .instagram-login {
   background-color: #0095f6;
   color: #fff;
@@ -116,7 +120,7 @@ body {
 }
 
 .app-download:nth-child(1) {
-  background-image: url('/images/apple-button.png');
+  background-image: url('/images/apple.png');
 }
 
 .app-download:nth-child(2) {
